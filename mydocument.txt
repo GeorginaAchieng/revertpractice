@@ -1,2 +1,5 @@
 This document is for learning how to revert and it shall be wonderful.
 And i wuold like to tell the whole world about it.
+
+Elijah reply:
+We are learing how to fork and pull.
